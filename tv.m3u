@@ -699,36 +699,6 @@ http://62.210.99.158:9989/live?channelId=430&deviceMac=00:1A:79:F9:6F:F6&uid=368
 http://62.210.99.158:9989/live?channelId=431&deviceMac=00:1A:79:F9:6F:F6&uid=3682
 #EXTINF:-1 tvg-id="24/7 Benidorm." tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Benidorm." tvg-logo="" group-title="24-7 VOD",24/7 Benidorm.
 http://62.210.99.158:9989/live?channelId=432&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 1" tvg-logo="" group-title="XXX",ADULT 1
-http://62.210.99.158:9989/live?channelId=433&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 10" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 10" tvg-logo="" group-title="XXX",ADULT 10
-http://62.210.99.158:9989/live?channelId=434&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 11" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 11" tvg-logo="" group-title="XXX",ADULT 11
-http://62.210.99.158:9989/live?channelId=435&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 12" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 12" tvg-logo="" group-title="XXX",ADULT 12
-http://62.210.99.158:9989/live?channelId=436&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 13" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 13" tvg-logo="" group-title="XXX",ADULT 13
-http://62.210.99.158:9989/live?channelId=437&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 14" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 14" tvg-logo="" group-title="XXX",ADULT 14
-http://62.210.99.158:9989/live?channelId=438&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 15" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 15" tvg-logo="" group-title="XXX",ADULT 15
-http://62.210.99.158:9989/live?channelId=439&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 16" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 16" tvg-logo="" group-title="XXX",ADULT 16
-http://62.210.99.158:9989/live?channelId=440&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 2" tvg-logo="" group-title="XXX",ADULT 2
-http://62.210.99.158:9989/live?channelId=441&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 3" tvg-logo="" group-title="XXX",ADULT 3
-http://62.210.99.158:9989/live?channelId=442&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 4" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 4" tvg-logo="" group-title="XXX",ADULT 4
-http://62.210.99.158:9989/live?channelId=443&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 5" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 5" tvg-logo="" group-title="XXX",ADULT 5
-http://62.210.99.158:9989/live?channelId=444&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 6" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 6" tvg-logo="" group-title="XXX",ADULT 6
-http://62.210.99.158:9989/live?channelId=445&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 7" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 7" tvg-logo="" group-title="XXX",ADULT 7
-http://62.210.99.158:9989/live?channelId=446&deviceMac=00:1A:79:F9:6F:F6&uid=3682
-#EXTINF:-1 tvg-id="ADULT 8" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ADULT 8" tvg-logo="" group-title="XXX",ADULT 8
-http://62.210.99.158:9989/live?channelId=447&deviceMac=00:1A:79:F9:6F:F6&uid=3682
 #EXTINF:-1 tvg-id="ELEVEN 1 (Portugal)" tvg-link="" tvg-name="ELEVEN 1 (Portugal)" tvg-logo="" group-title="Extra EPL Channels",ELEVEN 1 (Portugal)
 http://62.210.99.158:9989/live?channelId=448&deviceMac=00:1A:79:F9:6F:F6&uid=3682
 #EXTINF:-1 tvg-id="ELEVEN 2 (Portugal)" tvg-link="" tvg-name="ELEVEN 2 (Portugal)" tvg-logo="" group-title="Extra EPL Channels",ELEVEN 2 (Portugal)
