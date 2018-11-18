@@ -1,0 +1,262 @@
+#EXTM3U
+#EXTINF:-1,IND-GOA | GCTV [IN]
+https://5a9fe19ea6821.streamlock.net:443/gctv/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1,IND-GOA | NCH [IN]
+http://iptv.mstudiosystem.com:1935/nch/livestream3/playlist.m3u8
+#EXTINF:-1,IND-GOA | GLORY TV [IN]
+http://iptv.mstudiosystem.com:1935/glorytv/livestream3/playlist.m3u8
+#EXTINF:-1,IND-GOA | Prime Media Goa [IN]
+http://qikstudio.in/primegoa/primegoa/playlist.m3u8
+#EXTINF:-1,IND-GOA | ingoa [IN]
+http://qikstudio.in/ingoa/ingoa/playlist.m3u8
+#EXTINF:-1,IND-GOA | prudentmedia [IN]
+http://iptv.mstudiosystem.com:1935/prudentmedia/livestream3/playlist.m3u8
+#EXTINF:-1,IND-GOA | Rdx [IN]
+http://livestream.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1,IND-GOA | HCN [IN]
+http://iptv.mstudiosystem.com:1935/hcn/livestream3/playlist.m3u8
+#EXTINF:-1,IND-GOA | GOA365 [IN]
+http://iptv.mstudiosystem.com:1935/goa365/livestream3/playlist.m3u8
+#EXTINF:-1,IND-GOA | GTV [IN]
+http://qikstudio.in/gtv/gtv/playlist.m3u8
+#EXTINF:-1,UK | FRANCE 24 [UK]
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,IND | NDTV [IN]
+https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
+#EXTINF:-1,IND | INdiatvNews [IN]
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+#EXTINF:-1,IND | DD News [IN]
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1,UK | Sky News [UK]
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,UK | Aljazeera [UK]
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1,UK | BBC NEWS[UK]
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:-1,UK | RT [UK]
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:-1,UK | RT Documentary [UK]
+https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
+#EXTINF:-1,UK | ITV1 [UK]
+http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
+#EXTINF:-1,UK | ITV2 [UK]
+http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
+#EXTINF:-1,UK | ITV3 [UK]
+https://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master.m3u8
+#EXTINF:-1,UK | ITV4 [UK]
+https://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master.m3u8
+#EXTINF:-1,UK | ITVBe [UK]
+https://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master.m3u8
+#EXTINF:-1,UK | CITV [UK]
+https://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master.m3u8
+#EXTINF:-1,UK | ITV SPORT [UK]
+https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
+#EXTINF:-1,UK | BBC parliament [UK]
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
+#EXTINF:-1,UK | BBC ONE [UK]
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8
+#EXTINF:-1,UK | BBC Two [UK]
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
+#EXTINF:-1,UK | BBC Four [UK]
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
+#EXTINF:-1,UK | CBBC [UK]
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+#EXTINF:-1,UK | Cbeebies [UK]
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+#EXTINF:-1,UK | CARTOON NETWORK [UK]
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1,UK | Channel 4 [UK]
+http://streams.yo.tv/srv3/ngrp:3.stream_all/playlist.m3u8
+#EXTINF:-1,UK | Channel E4 [UK]
+http://streams.yo.tv/srv1/ngrp:5.stream_all/playlist.m3u8?DVR
+#EXTINF:-1,UK | Channel 5 [UK]
+http://streams.yo.tv/srv1/ngrp:4.stream_all/playlist.m3u8?DVR
+#EXTINF:-1,IND | ABP NEWS [IN]
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-1,IND | CNBC [IN]
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
+#EXTINF:-1,UK | EWTN [UK]
+http://streamcdna6.mainstreaming.tv/cdn/live/101110/HYSmTLX/chunklist_b1128000.m3u8
+#EXTINF:-1,IND | ZOOM [IN]
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+#EXTINF:-1,UK | Nollwood Movies [UK]
+http://streams.yo.tv/srv3/ngrp:5.stream_all/playlist.m3u8
+#EXTINF:-1,PK | Fox Sports Racing [USA]
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1,PK | Fox Sports 2 [USA]
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1,PK | BT Sport 1 [UK]
+http://iptv.ndasat.com:88/329056230761828/329056230761828/9
+#EXTINF:-1,PK | BT Sport 2 [UK]
+http://iptv.ndasat.com:88/329056230761828/329056230761828/10
+#EXTINF:-1,PK | BT Sport 3 [UK]
+http://iptv.ndasat.com:88/329056230761828/329056230761828/18
+#EXTINF:-1,PK | BT Sport ESPN [UK]
+http://185.53.163.205:2507
+#EXTINF:-1,PK | Flow Sports1 [UK]
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1,PK | Dsports SD [PK]
+http://thop.in/THOPTV_APP/zgbsat-3221226484-002.m3u8
+#EXTINF:-1,PK | Dsports HD [PK]
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:-1,IND | DD SPORTS [IN]
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
+#EXTINF:-1,IND | SONY TEN 1 [IN]
+http://thop.in/THOPTV_APP/zgbsat-3221225875-002.m3u8
+#EXTINF:-1,IND | SONY TEN 1 HD [IN]
+http://bit.do/SulukTEN1
+#EXTINF:-1,IND | SONY TEN 2 [IN]
+http://thop.in/THOPTV_APP/zgbsat-3221226077-002.m3u8
+#EXTINF:-1,IND | SONY TEN 2 HD [IN]
+http://125.17.129.13/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/03.m3u8
+#EXTINF:-1,IND | SONY TEN 3 [IN]
+http://thop.in/THOPTV_APP/zgbsat-3221226330-02.m3u8
+#EXTINF:-1,IND | SONY TEN 3 HD [IN]
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1,IND | SONY ESPN SD [IN]
+http://thop.in/THOPTV_APP/zgbsat-3221226076-002.m3u8
+#EXTINF:-1,IND | SONY ESPN HD [IN]
+http://125.17.129.13/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/03.m3u8
+#EXTINF:-1,IND | Neo Sports [IN]
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:-1,IND | Neo Prime [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1,IND | SONY SIX SD[IN]
+http://thop.in/THOPTV_APP/zgbsat-3221225780-002.m3u8
+#EXTINF:-1,IND | SONY SIX HD[IN]
+http://125.17.129.13/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/03.m3u8
+#EXTINF:-1,IND | Star Sports 1 HD[IN]
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30953.ts
+#EXTINF:-1,IND | Star Sports 2 HD[IN]
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30419.ts
+#EXTINF:-1,IND | Sky Sports Action HD[IN]
+http://62.210.99.158:9989/live?channelId=120&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1,IND | Sky Sports Football HD[IN]
+http://62.210.99.158:9989/live?channelId=126&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1,IND | Colors SD[IN]
+http://103.205.133.43/hls/colors.m3u8
+#EXTINF:-1,IND | Colors HD[IN]
+http://54.39.144.139:8080/ColorsHD/index.m3u8
+#EXTINF:-1,IND | Star Bharat SD[IN]
+http://103.205.133.43/hls/lifeok.m3u8
+#EXTINF:-1,IND | Star Bharat HD[IN]
+http://54.39.144.139:8080/StarBharatHD/index.m3u8
+#EXTINF:-1,IND | B4U MUSIC [IN]
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226055/01.m3u8
+#EXTINF:-1,IND | Star Plus SD [IN]
+http://103.205.133.43/hls/starplus.m3u8
+#EXTINF:-1,IND | Star Plus HD [IN]
+http://54.39.144.139:8080/StarPlusHD/index.m3u8
+#EXTINF:-1,IND | SSTV [IN]
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1,IND | B4U Movies [IN]
+http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
+#EXTINF:-1,IND | Star_Gold_HD [IN]
+http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
+#EXTINF:-1,IND | ENTER 10 [IN]
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
+#EXTINF:-1,IND | Sony Movies [IN]
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:-1,UK | Horror [UK]
+http://185.53.163.205:2703
+#EXTINF:-1,USA | CBS@ACTION [USA]
+http://185.53.163.205:2704
+#EXTINF:-1,IND | FOX MOVIES [USA]
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,IND | FOX ACTION MOVIES [IN]
+http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
+#EXTINF:-1,IND | Sony Rox HD [IN]
+http://mhms5.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:-1,IND | ZEE CINEMA [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/01.m3u8
+#EXTINF:-1,IND | ZEE CENIMA HD UK [IN]
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226083/01.m3u8
+#EXTINF:-1,IND | ZEE BOLLYWOOD [IN]
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/1.m3u8
+#EXTINF:-1,IND | SONY MAX SD[IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/01.m3u8
+#EXTINF:-1,IND | SONY MAX HD[IN]
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
+#EXTINF:-1,IND | SONY PUL [IN]
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226200/01.m3u8
+#EXTINF:-1,IND | SONY TV SD [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/01.m3u8
+#EXTINF:-1,IND | SONY TV HD[IN]
+http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/01.m3u8
+#EXTINF:-1,IND | &PICTURES SD[IN]
+https://bit.ly/2ColykN
+#EXTINF:-1,IND | &PICTURES HD[IN]
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1,IND | 1 ONE Hindi Cinema HD[IN]
+http://cdn18.live247stream.com/ndachannel/tv/ndachannel/stream/chunks.m3u8
+#EXTINF:-1,IND | Manoranjan Movies [IN]
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226226/06.m3u8
+#EXTINF:-1,IND | &TV [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/01.m3u8
+#EXTINF:-1,IND | Dabangg [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226097/01.m3u8
+#EXTINF:-1,IND | SONY MIX [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/01.m3u8
+#EXTINF:-1,IND | SONY SAB [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/01.m3u8
+#EXTINF:-1,IND | SONY SAB HD [IN]
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/01.m3u8
+#EXTINF:-1,IND | SONY PLEX HD [IN]
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
+#EXTINF:-1,IND | SONY PIX SD [IN]
+http://cshms3.airtel.tv/wh7f454c46tw708965953_498209345/PLTV/88888888/224/3221226442/04.m3u8
+#EXTINF:-1,IND | SONY PIX HD [IN]
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226486/01.m3u8
+#EXTINF:-1,IND | SONY WAH [IN]
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8
+#EXTINF:-1,IND | ZEE TV [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/01.m3u8
+#EXTINF:-1,IND | ZEE TV HD [IN]
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/01.m3u8
+#EXTINF:-1,IND | ZEE CLASSIC [IN]
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/01.m3u8
+#EXTINF:-1,IND | ZEE ACTION [IN]
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226331/01.m3u8
+#EXTINF:-1,IND | SONY MAX + 2 [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1,IND | MAHA MOVIE [IN]
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:-1,IND | CINEMA TV [IN]
+http://mhms8.airtel.tv/wh7f454c46tw1547650707_1052100671/PLTV/88888888/224/3221226246/03.m3u8
+#EXTINF:-1,IND | SKY STAR MOVIES [IN]
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226215/1.m3u8
+#EXTINF:-1,IND | HBO HD [IN]
+http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
+http://streams.iptv.zone/p/354817/c/265/u/89117/23Mu0wPzF04G1BERRjDFCWw2uUsd3W
+#EXTINF:-1,IND | Movies Now HD [IN]
+http://139.59.74.143/j/Movies_Now_HD.m3u8
+#EXTINF:-1,IND | AXN [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:-1,IND | AXN HD [IN]
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+#EXTINF:-1,IND | Animal Planet HD World [IN]
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,IND | Discovery World HD [IN]
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,IND | Nat Geo wild[IN]
+http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w177687450_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
+#EXTINF:-1,IND | Discovery Science [IN]
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:-1,IND | Discovery Turbo [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/01.m3u8
+#EXTINF:-1,IND | History HD [IN]
+http://139.59.74.143/j/History_HD.m3u8
+#EXTINF:-1,IND | SONY BBC Earth SD [IN]
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/01.m3u8
+#EXTINF:-1,IND | SONY BBC Earth HD [IN]
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226280/1.m3u8
+#EXTINF:-1,UK | LONDON LIVE [UK]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1,UK | bbc sports [UK]
+http://streams.yo.tv/srv4/ngrp:1.stream_all/playlist.m3u8
+#EXTINF:-1,IND | ZEE CENIMA HD UK [IN]
+https://z5ams.akamaized.net/zcinemahd/tracks-v2a1/index.m3u8
+#EXTINF:-1,IND | FATIMA TV [IN]
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1,IND | test video [IN]
+https://www.youtube.com/watch?v=7R54NdzVKxk
